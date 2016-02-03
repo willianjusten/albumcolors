@@ -1,0 +1,267 @@
+body {
+	text-align:center!important;
+	background-color:#efefef;
+}
+
+::-webkit-scrollbar {
+      width: 20px;
+      opacity: 0.5;
+}
+
+::-webkit-scrollbar-thumb {
+      background-color: #d9766b;
+      opacity: 0.5;
+}
+ 
+::-webkit-scrollbar-track {
+      background-color: #393f4b;
+}
+
+h1 {
+	font-family:Avenir,sans-serif;
+	color:#fff;
+	letter-spacing: 10px;
+	font-size: 15px;
+ 	-webkit-font-smoothing: antialiased;
+}
+
+@media (max-width: 640px) {
+	h1 {	
+		width: 250px;
+		margin: auto;
+	}
+}
+
+h2 {
+	margin:30px 0 4px;
+	font-family:Avenir,sans-serif;
+	font-size: 25px;
+	line-height:1.2;
+	letter-spacing:-.06em;
+	font-weight: lighter;
+	color: #333;
+}
+
+h3 {
+	margin-bottom:25px;
+	font-family:Avenir;
+	font-size:12px;
+	letter-spacing:.09em;
+	color: #333;
+	text-transform: uppercase;
+}
+
+h4 {
+	font-family:Avenir;
+	font-size:14px;
+	margin:5px 0;
+	display:block;
+	color: #333;
+}
+
+
+h5 {
+	font-size: 12px;
+	font-family:Avenir,sans-serif;
+	color: #fff;
+	letter-spacing: 3px;
+	padding-top: 30px;
+	font-weight: bolder;
+	-webkit-font-smoothing: antialiased;
+} 
+
+li {
+	float: left;
+	margin-right: 20px;
+	font-size: 12px !important;
+	margin-top: 30px;
+	text-align: center:;	
+}
+
+p {
+	font-size: 12px;
+	font-family:Avenir,sans-serif;
+	color: #fff;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	-webkit-font-smoothing: antialiased;
+}
+
+.clearfix:before, .clearfix:after {
+    content: "";    
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
+
+.footer {
+	width: 100%;
+	height: 100px;
+	background-color: #333;
+}
+
+
+.link {
+	font-size: 12px;
+	font-family:Avenir,sans-serif;
+	color: #fff;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	-webkit-font-smoothing: antialiased;
+}
+
+.content-card {
+	width: 200px;
+	height: 200px;
+	margin: auto;
+ 	position: absolute;
+  	top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.content-hero {
+	width: 100%;
+	height: 200px;
+	margin: auto;
+ 	position: absolute;
+  	top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.content-footer {
+	width: 100%;
+	height: 200px;
+	margin: auto;
+ 	position: absolute;
+  	top: 0; left: 0; bottom: 0; right: 0;
+}
+
+
+.logo {
+	margin-bottom: 45px;	
+}
+
+.hero {
+	background:#000;
+	height: 90vh;
+	padding-top:160px;
+	background-image:url(../images/bg.jpg);
+	background-size: cover;
+}
+
+.card-container {
+	-webkit-perspective:800px;
+	-moz-perspective:800px;
+	-o-perspective:800px;
+	perspective:800px
+}
+
+.card-container.hover.manual-flip .card,.card-container:not(.manual-flip):hover .card {
+	-webkit-transform:rotateY(180deg);
+	-moz-transform:rotateY(180deg);
+	-o-transform:rotateY(180deg);
+	transform:rotateY(180deg)
+}
+
+.card-container.static.hover .card,.card-container.static:hover .card {
+	-webkit-transform:none;
+	-moz-transform:none;
+	-o-transform:none;
+	transform:none
+}
+
+.card {
+	-webkit-transition:-webkit-transform .5s;
+	-moz-transition:-moz-transform .5s;
+	-o-transition:-o-transform .5s;
+	transition:transform .5s;
+	-webkit-transform-style:preserve-3d;
+	-moz-transform-style:preserve-3d;
+	-o-transform-style:preserve-3d;
+	transform-style:preserve-3d;
+	position:relative;
+	height:auto
+}
+
+.back,.front {
+	position:absolute;
+	top:0;
+	left:0;
+	background-color:#FFF;
+}
+
+@media screen and (min-width: 768px) {
+	.back,.front {
+		-webkit-backface-visibility:hidden;
+		-moz-backface-visibility:hidden;
+		-o-backface-visibility:hidden;
+		backface-visibility:hidden;
+	}	
+}
+
+.back {
+	-webkit-transform:rotateY(180deg);
+	-moz-transform:rotateY(180deg);
+	-o-transform:rotateY(180deg);
+	transform:rotateY(180deg);
+	color:#fff;
+	background-color:#fff;
+}
+
+.card-container:hover {
+	position: relative;
+  	z-index: 10;
+}
+
+.back,.card-container,.front {
+	z-index: 5;
+	width:100%;
+	transition: 1s ease;
+}
+
+.card .cover {
+	overflow:hidden;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.card .content {
+	background-color:transparent;
+	padding:10px 20px 20px
+}
+
+.card .content .main {
+	min-height:160px;
+}
+
+.card .motto
+{
+	border-bottom:1px solid #EEE;
+	color:#999;
+	font-size:14px;
+	font-weight:400;
+	padding-bottom:10px;
+	text-align:center
+}
+	
+@media screen and (-ms-high-contrast:active),(-ms-high-contrast:none) {
+
+	.back,.front {
+		-ms-backface-visibility:visible;
+		backface-visibility:visible;
+	}
+
+	.back {
+		visibility:hidden;
+		-ms-transition:all .2s cubic-bezier(.92,.01,.83,.67);
+	}
+
+	.front {
+		z-index:4
+	}
+
+	.card-container:hover .back {
+		z-index:5;
+		visibility:visible;
+	}
+
+}

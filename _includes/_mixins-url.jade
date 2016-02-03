@@ -1,0 +1,23 @@
+mixin createFacesList(faces)
+	each face, index in faces
+			- var last = index == faces.length -1 ? "end" : ""    
+			div(class="large-2 medium-6 small-12 columns collapse #{last}" )
+				div(class="card-container")
+					div(class="card")
+						div(class="front")
+							div(class="cover")
+								if face.tag
+									img(class="tag", src="images/#{face.tag}")
+									img(src="images/faces/#{face.image}")
+								else
+									img(src="images/faces/#{face.image}")
+
+						div(class="back")
+							div(class="content")
+								div(class="main")
+									a(href="#{face.url}", target="_blank")
+										h2=face.name
+									h3=face.description
+									h4=face.fullname
+									h4=face.hexa
+									

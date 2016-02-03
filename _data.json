@@ -1,0 +1,914 @@
+{
+	"index": {
+		"albums": [
+			{
+				"name": "It’s It’s Remix Time Time EP",
+				"artist": "Todd Terje",
+				"hexa": "#f717c8",
+				"image": "Todd Terje - It’s It’s Remix Time Time EP.jpg",
+				"url": "https://open.spotify.com/album/3kHk5A46wxAQuKQOvYv7L6"
+			},
+			{
+				"name": "EVEN IF YOU DONT BELIEVE",
+				"artist": "Rustie",
+				"hexa": "#d042ab",
+				"image": "Rustie - EVENIFYOUDONTBELIEVE.jpeg",
+				"url": "https://open.spotify.com/album/7bzSRJuSLfCTWRzrOni6X7"
+			},
+			{
+				"name": "Purple",
+				"artist": "Barones",
+				"hexa": "#b5729b",
+				"image": "Baroness - Purple.jpg",
+				"url": "https://open.spotify.com/album/49Iya42dgyQlHiImgCcvJt"
+			},
+			{
+				"name": "Duskland",
+				"artist": "Zachary Cale",
+				"hexa": "#fbc4e0",
+				"image": "Zachary Cale - Duskland.jpg"
+			},
+			{
+				"name": "Much Love",
+				"artist": "Unknown Mortal Orchestra",
+				"hexa": "#f27ead",
+				"image": "Unknown Mortal Orchestra - Much Love.jpg"
+			},
+			{
+				"name": "I Want to Grow Up",
+				"artist": "Colleen Green",
+				"hexa": "#f38bba",
+				"image": "Colleen Green - I Want to Grow Up.jpg"
+			},
+			{
+				"name": "What A Terrible World, What A Beautiful World",
+				"artist": "The Decemberists",
+				"hexa": "#ff81c4",
+				"image": "The Decemberists - What A Terrible World, What A Beautiful World.jpg"
+			},
+			{
+				"name": "Every Open Eye",
+				"artist": "Chvrches",
+				"hexa": "#cf8497",
+				"image": "Chvrches - Every Open Eye.jpg"
+			},
+			{
+				"name": "Transfixiation",
+				"artist": "A Place to Bury Strangers",
+				"hexa": "#e9447c",
+				"image": "A Place to Bury Strangers - Transfixiation.jpg"
+			},
+			{
+				"name": "Peace Is the Mission",
+				"artist": "Major Lazer",
+				"hexa": "#ee226b",
+				"image": "Major Lazer - Peace Is the Mission.jpg"
+			},
+			{
+				"name": "Why Make Sense",
+				"artist": "Hot Chip",
+				"hexa": "#e7506f",
+				"image": "Hot Chip - Why Make Sense_.jpg"
+			},
+			{
+				"name": "Highlights",
+				"artist": "Tanlines",
+				"hexa": "#cf7d86",
+				"image": "Tanlines - Highlights.jpg"
+			},
+			{
+				"name": "Blood",
+				"artist": "Lianne La Havas",
+				"hexa": "#f8b4bd",
+				"image": "Lianne la havas - blood.jpg"
+			},
+			{
+				"name": "I Love You, Honeybear",
+				"artist": "Father John Misty",
+				"hexa": "#eb9ea8",
+				"image": "Father John Misty - I Love You, Honeybear.png"
+			},
+			{
+				"name": "Miley Cyrus and Her Dead Petz",
+				"artist": "Miley Cyrus",
+				"hexa": "#f5d9da",
+				"image": "Miley Cyrus - Miley Cyrus and Her Dead Petz.png"
+			},
+			{
+				"name": "Another Eternity",
+				"artist": "Purity Ring",
+				"hexa": "#fea0a0",
+				"image": "Purity Ring - Another Eternity.jpg"
+			},
+			{
+				"name": "Wool Sucking",
+				"artist": "EULA",
+				"hexa": "#fe9a9c",
+				"image": "EULA - Wool Sucking.jpg"
+			},
+			{
+				"name": "No News From Home",
+				"artist": "Houndstooth",
+				"hexa": "#f47977",
+				"image": "Houndstooth - No News from Home.png"
+			},
+			{
+				"name": "Alfonso Muskedunder EP",
+				"artist": "Todd Terje",
+				"hexa": "#ef4f51",
+				"image": "Todd Terje - Alfonso Muskedunder EP.jpg"
+			},
+			{
+				"name": "Victoria OST",
+				"artist": "Nils Frahm",
+				"hexa": "#f25951",
+				"image": "Nils Frahm - Victoria OST.jpg"
+			},
+			{
+				"name": "Mutant",
+				"artist": "Arca",
+				"hexa": "#e50000",
+				"image": "Arca - Mutant.png"
+			},
+			{
+				"name": "Meets The Grim Reaper",
+				"artist": "Panda Bear",
+				"hexa": "#e40613",
+				"image": "Panda Bear - Meets The Grim Reaper.jpg"
+			},
+			{
+				"name": "Meow The Jewels",
+				"artist": "Run the Jewels",
+				"hexa": "#e42626",
+				"image": "Run the Jewels - Meow The Jewels.jpg"
+			},
+			{
+				"name": "Dream a Garden",
+				"artist": "Jam City",
+				"hexa": "#d62126",
+				"image": "Jam City - Dream a Garden.jpg"
+			},
+			{
+				"name": "Coming Home",
+				"artist": "Leon Bridges",
+				"hexa": "#b9271a",
+				"image": "Leon Bridges - Coming Home.jpg"
+			},
+			{
+				"name": "Kunk",
+				"artist": "Dope Body",
+				"hexa": "#be2424",
+				"image": "Dope Body - Kunk.jpg"
+			},
+			{
+				"name": "Depression Cherry",
+				"artist": "Beach House",
+				"hexa": "#781118",
+				"image": "Beach House - Drepression Cherry.jpg"
+			},
+			{
+				"name": "VEGA Intl. Night School",
+				"artist": "Neon Indian",
+				"hexa": "#7d1418",
+				"image": "Neon Indian - VEGA Intl. Night School.jpg"
+			},
+			{
+				"name": "Hallucinogen EP",
+				"artist": "Kelela",
+				"hexa": "#560d18",
+				"image": "Kelela.jpg"
+			},
+			{
+				"name": "Barter 6",
+				"artist": "Young Thug",
+				"hexa": "#ca3122",
+				"image": "Young Thug - Barter 6.jpg"
+			},
+			{
+				"name": "Apocalypse, Girl",
+				"artist": "Jenny Hval",
+				"hexa": "#b62c2b",
+				"image": "Jenny Hval - Apocalypse, Girl.jpg"
+			},
+			{
+				"name": "On Your Own Love Again",
+				"artist": "Jessica Pratt",
+				"hexa": "#ef6046",
+				"image": "Jessica Pratt - On Your Own Love Again.jpg"
+			},
+			{
+				"name": "Dornik",
+				"artist": "Dornik",
+				"hexa": "#f69671",
+				"image": "Dornik - Dornik.jpg"
+			},
+			{
+				"name": "Not Real",
+				"artist": "Stealing Sheep",
+				"hexa": "#e65a1e",
+				"image": "Stealing Sheep - Not Real.jpg"
+			},
+			{
+				"name": "Negative Feedback Resistor",
+				"artist": "Destruction Unit",
+				"hexa": "#e93c2c",
+				"image": "Destruction Unit - Negative Feedback Resistor.jpg"
+			},
+			{
+				"name": "Be Small",
+				"artist": "Here We Go Magic",
+				"hexa": "#c85423",
+				"image": "Here We Go Magic - Be Small.jpg"
+			},
+			{
+				"name": "Wonderlust",
+				"artist": "Kid Wave",
+				"hexa": "#ac765d",
+				"image": "Kid Wave - Wonderlust.jpg"
+			},
+			{
+				"name": "M3LL155X EP",
+				"artist": "FKA twigs",
+				"hexa": "#cfa28d",
+				"image": "FKA twigs - M3LL155X EP.jpg"
+			},
+			{
+				"name": "Fetty Wap",
+				"artist": "Fetty Wap",
+				"hexa": "#976a4b",
+				"image": "Fetty Wap - Fetty Wap.jpg"
+			},
+			{
+				"name": "Rodeo",
+				"artist": "Travis Scott",
+				"hexa": "#966149",
+				"image": "Travis Scott - Rodeo.jpg"
+			},
+			{
+				"name": "Wildheart",
+				"artist": "Miguel",
+				"hexa": "#824329",
+				"image": "Miguel - Wildheart.jpg"
+			},
+			{
+				"name": "Compton",
+				"artist": "Dr. Dre",
+				"hexa": "#a9876a",
+				"image": "Dr. Dre - Compton.jpg"
+			},
+			{
+				"name": "b'lieve i'm going down...",
+				"artist": "Kurt Vile",
+				"hexa": "#cab394",
+				"image": "Kurt Vile - b'lieve i'm going down....jpg"
+			},
+			{
+				"name": "25",
+				"artist": "Adele",
+				"hexa": "#afa289",
+				"image": "Adele - 25.jpg"
+			},
+			{
+				"name": "Fading Love",
+				"artist": "George FitzGerald",
+				"hexa": "#c4c2b5",
+				"image": "George FitzGerald - Fading Love.jpg"
+			},
+			{
+				"name": "Escape From Evil",
+				"artist": "Lower Dens",
+				"hexa": "#c6c8b2",
+				"image": "Lower Dens - Escape From Evil.jpg"
+			},
+			{
+				"name": "Convoque Seu Buda",
+				"artist": "Criolo",
+				"hexa": "#f1e6bf",
+				"image": "Criolo - Convoque seu buda.jpg"
+			},
+			{
+				"name": "St. Germain",
+				"artist": "St. Germain",
+				"hexa": "#dfcda9",
+				"image": "St. Germain - St. Germain.jpg"
+			},
+			{
+				"name": "The Beyond / Where The Giants Roam",
+				"artist": "Thundercat",
+				"hexa": "#b6954e",
+				"image": "Thundercat - The Beyond _ Where The Giants Roam.jpg"
+			},
+			{
+				"name": "The Republic",
+				"artist": "Sam Prekop",
+				"hexa": "#faa41a",
+				"image": "Sam Prekop - The Republic.jpg"
+			},
+			{
+				"name": "Morning World",
+				"artist": "Teen Daze",
+				"hexa": "#dec101",
+				"image": "Teen Daze - Morning World.jpg"
+			},
+			{
+				"name": "Vulnicura",
+				"artist": "Björk",
+				"hexa": "#e7e459",
+				"image": "Bjork - Vulnicura.jpg"
+			},
+			{
+				"name": "I Don't Want to Let You Down EP",
+				"artist": "Sharon Van Etten ",
+				"hexa": "#dcf0da",
+				"image": "Sharon Van Etten - I Don't Want to Let You Down EP.jpg"
+			},
+			{
+				"name": "Divers",
+				"artist": "Joanna Newsom",
+				"hexa": "#acb27f",
+				"image": "Joanna Newsom - Divers.png"
+			},
+			{
+				"name": "Many Moons",
+				"artist": "Martin Courtney",
+				"hexa": "#4c5d2f",
+				"image": "Martin Courtney - Many Moons.jpg"
+			},
+			{
+				"name": "Strangers to Ourselvesr",
+				"artist": "Modest Mouse",
+				"hexa": "#324c1b",
+				"image": "Modest Mouse - Strangers to Ourselvesr.jpg"
+			},
+			{
+				"name": "St. Catherine",
+				"artist": "Ducktails",
+				"hexa": "#445e47",
+				"image": "Ducktails - St. Catherine.jpg"
+			},
+			{
+				"name": "Stop Suffering EP",
+				"artist": "Tropic of Cancer",
+				"hexa": "#58724c",
+				"image": "Tropic of Cancer - Stop Suffering EP.jpg"
+			},
+			{
+				"name": "Harmlessness",
+				"artist": "The World Is a Beautiful Place & I Am No Longer Afraid to Die",
+				"hexa": "#365230",
+				"image": "The World Is a Beautiful Place & I Am No Longer Afraid to Die - Harmlessness.jpg"
+			},
+			{
+				"name": "Samantha",
+				"artist": "Toro Y Moi",
+				"hexa": "#2f4028",
+				"image": "Toro Y Moi - Samantha.png"
+			},
+			{
+				"name": "DJ Kicks",
+				"artist": "DJ Koze",
+				"hexa": "#496b15",
+				"image": "DJ-Koze---DJ-Kicks.jpg"
+			},
+			{
+				"name": "Simple Songs",
+				"artist": "Jim O'Rourke",
+				"hexa": "#0f773b",
+				"image": "Jim O'Rourke - Simple Songs.jpg"
+			},
+			{
+				"name": "The Waterfall",
+				"artist": "Morning Jacket",
+				"hexa": "#2e6a3b",
+				"image": "Morning Jacket - The Waterfall.jpg"
+			},
+			{
+				"name": "Bush",
+				"artist": "Snopp Dogg",
+				"hexa": "#58b572",
+				"image": "Snopp Dogg - Bush.jpg"
+			},
+			{
+				"name": "Palmbomen II",
+				"artist": "Palmbomen II",
+				"hexa": "#76f0c1",
+				"image": "Palmbomen II - Palmbomen II.jpg"
+			},
+			{
+				"name": "Dear Tommy",
+				"artist": "Chromatics",
+				"hexa": "#1d634a",
+				"image": "Chromatics - Dear Tommy.jpg"
+			},
+			{
+				"name": "Goon",
+				"artist": "Tobias Jesso Jr.",
+				"hexa": "#39564f",
+				"image": "Tobias Jesso Jr. - Goon.jpg"
+			},
+			{
+				"name": "California Nights",
+				"artist": "Best Coast",
+				"hexa": "#45978b",
+				"image": "Best Coast - California Nights.jpg"
+			},
+			{
+				"name": "No No No",
+				"artist": "Beirut",
+				"hexa": "#6a9e9c",
+				"image": "Beirut - No No No.jpg"
+			},
+			{
+				"name": "The Agent Intellect",
+				"artist": "Protomartyr",
+				"hexa": "#267579",
+				"image": "Protomartyr - The Agent Intellect.jpg"
+			},
+			{
+				"name": "What Went Down",
+				"artist": "Foals",
+				"hexa": "#9fccc7",
+				"image": "Foals - What Went Down.jpg"
+			},
+			{
+				"name": "Moonlust",
+				"artist": "The Holydrug Couple",
+				"hexa": "#53a298",
+				"image": "The Holydrug Couple - Moonlust.jpg"
+			},
+			{
+				"name": "Another One",
+				"artist": "Mac Demarco",
+				"hexa": "#688f94",
+				"image": "Mac Demarco - Another One.jpg"
+			},
+			{
+				"name": "Star Wars",
+				"artist": "Wilco",
+				"hexa": "#303f44",
+				"image": "Wilco - Star Wars.gif"
+			},
+			{
+				"name": "Carrie & Lowell",
+				"artist": "Sufjan Stevens",
+				"hexa": "#48666b",
+				"image": "Sufjan Stevens - Carrie & Lowell.jpg"
+			},
+			{
+				"name": "O Shudder",
+				"artist": "Dutch Uncles",
+				"hexa": "#0ea5b2",
+				"image": "Dutch Uncles - O Shudder.jpg"
+			},
+			{
+				"name": "All Yours",
+				"artist": "Windowspeak",
+				"hexa": "#7ab3c4",
+				"image": "Windowspeak - All Yours.jpg"
+			},
+			{
+				"name": "Delirium",
+				"artist": "Ellie Goulding",
+				"hexa": "#c0d8dc",
+				"image": "Ellie Goulding - Delirium.jpg"
+			},
+			{
+				"name": "Quarterbacks",
+				"artist": "Quarterbacks",
+				"hexa": "#d2e4f0",
+				"image": "Quarterbacks - Quarterbacks.jpg"
+			},
+			{
+				"name": "Captain Of None",
+				"artist": "Colleen",
+				"hexa": "#55c6e7",
+				"image": "Colleen - Captain Of None.jpg"
+			},
+			{
+				"name": "Honeymoon",
+				"artist": "Lana Del Rey",
+				"hexa": "#95bad5",
+				"image": "Lana Del Rey - Honeymoon.jpg"
+			},
+			{
+				"name": "I Want To Believe",
+				"artist": "Project Pablo",
+				"hexa": "#5eafdc",
+				"image": "Project Pablo - I Want To Believe.jpg"
+			},
+			{
+				"name": "Paradise Goulash",
+				"artist": "Prins Thomas",
+				"hexa": "#2ea1e6",
+				"image": "Prins Thomas - Paradise Goulash.jpg"
+			},
+			{
+				"name": "Morning / Evening",
+				"artist": "Four Tet",
+				"hexa": "#0083b9",
+				"image": "Four Tet - Morning _ Evening.jpg"
+			},
+			{
+				"name": "Season",
+				"artist": "Leather Corduroys",
+				"hexa": "#2680f3",
+				"image": "Leather Corduroys - Season.jpg"
+			},
+			{
+				"name": "Art Angels",
+				"artist": "Grimes",
+				"hexa": "#0770b9",
+				"image": "Grimes - Art Angels.jpg"
+			},
+			{
+				"name": "Talk From Home",
+				"artist": "Suzanne Kraft",
+				"hexa": "#5588bb",
+				"image": "Suzanne Kraft - Talk From Home.jpg"
+			},
+			{
+				"name": "Valis",
+				"artist": "Mastery",
+				"hexa": "#0067b2",
+				"image": "Mastery - Valis.jpg"
+			},
+			{
+				"name": "All We Are",
+				"artist": "All we are",
+				"hexa": "#1763a1",
+				"image": "All We Are - All We Are.jpg"
+			},
+			{
+				"name": "Fadin Frontier",
+				"artist": "Deerhunter",
+				"hexa": "#1f7bd0",
+				"image": "Deerhunter - Fadin Frontier.jpg"
+			},
+			{
+				"name": "Time Wharp",
+				"artist": "Time Wharp ",
+				"hexa": "#40668e",
+				"image": "Time Wharp - Time Wharp.jpg"
+			},
+			{
+				"name": "Immersion",
+				"artist": "Zenker Brothers",
+				"hexa": "#0a5092",
+				"image": "Zenker Brothers - Immersion.jpg"
+			},
+			{
+				"name": "Savage Hills Ballroom",
+				"artist": "Youth Lagoon",
+				"hexa": "#1a254b",
+				"image": "Youth Lagoon - Savage Hills Ballroom.jpg"
+			},
+			{
+				"name": "Insides",
+				"artist": "Fort Romeau",
+				"hexa": "#23295a",
+				"image": "Fort Romeau - Insides.jpg"
+			},
+			{
+				"name": "Late Nights: The Album",
+				"artist": "Jeremih",
+				"hexa": "#200f69",
+				"image": "Jeremih-Late-Nights_-The-Album-2015-2480x2480.jpg"
+			},
+			{
+				"name": "DS2",
+				"artist": "Future",
+				"hexa": "#6c60a0",
+				"image": "Future - DS2.jpg"
+			},
+			{
+				"name": "The Mainframe",
+				"artist": "Joker",
+				"hexa": "#37134e",
+				"image": "Joker - The Mainframe.jpg"
+			},
+			{
+				"name": "Currents",
+				"artist": "Tame Impala",
+				"hexa": "#432d54",
+				"image": "Tame Impala - Currents.jpg"
+			},
+			{
+				"name": "Sprinter",
+				"artist": "Torres",
+				"hexa": "#392430",
+				"image": "Torres - Sprinter.jpeg"
+			},
+			{
+				"name": "EarthEE",
+				"artist": "THEESatisfaction",
+				"hexa": "#332832",
+				"image": "THEESatisfaction - EarthEE.jpg"
+			},
+			{
+				"name": "The Magic Whip",
+				"artist": "Blur",
+				"hexa": "#000000",
+				"image": "Blur - The Magic Whip.jpg"
+			},
+			{
+				"name": "Communion",
+				"artist": "Years & Years",
+				"hexa": "#000000",
+				"image": "Years & Years - Communion.jpg"
+			},
+			{
+				"name": "Garden Of Delete",
+				"artist": "Oneohtrix Point Never",
+				"hexa": "#000000",
+				"image": "Oneohtrix Point Never - Garden of Delete.jpg"
+			},
+			{
+				"name": "I Don't Like Shit, I Don't Go Outside",
+				"artist": "Earl Sweatshirt",
+				"hexa": "#0e0f13",
+				"image": "Earl Sweatshirt - I Don't Like Shit, I Don't Go Outside.jpeg"
+			},
+			{
+				"name": "Ghost Culture",
+				"artist": "Ghost Culture",
+				"hexa": "#080808",
+				"image": "Ghost Culture - Ghost Culture.jpg"
+			},
+			{
+				"name": "Summertime '06",
+				"artist": "Vince Staples",
+				"hexa": "#131313",
+				"image": "Vince Staples - Summertime '06.jpg"
+			},
+			{
+				"name": "Beauty Behind The Madness",
+				"artist": "The Weeknd",
+				"hexa": "#0e1213",
+				"image": "The Weeknd - Beauty Behind The Madness.jpg"
+			},
+			{
+				"name": "Return To The Moon",
+				"artist": "EL VY",
+				"hexa": "#0c0c0c",
+				"image": "EL VY - Return to the Moon.jpg"
+			},
+			{
+				"name": "Ratchet",
+				"artist": "Shamir",
+				"hexa": "#111312",
+				"image": "Shamir - Ratchet.jpg"
+			},
+			{
+				"name": "New Bermuda",
+				"artist": "Deafheaven",
+				"hexa": "#111114",
+				"image": "Deafheaven - New Bermuda.jpg"
+			},
+			{
+				"name": "Caracal",
+				"artist": "Disclosure",
+				"hexa": "#1c1c1c",
+				"image": "Disclosure - Caracal.jpg"
+			},
+			{
+				"name": "Sound & Color",
+				"artist": "Alabama Shakes",
+				"hexa": "#242424",
+				"image": "Alabama Shakes - Sound & Color.jpg"
+			},
+			{
+				"name": "The King Of Anxiety EP",
+				"artist": "Petite Noir",
+				"hexa": "#222222",
+				"image": "Petite Noir - The King of Anxiety EP.jpg"
+			},
+			{
+				"name": "Fated",
+				"artist": "Nosaj Thing",
+				"hexa": "#292929",
+				"image": "Nosaj Thing - Fated.jpg"
+			},
+			{
+				"name": "Obsidian",
+				"artist": "Benjamin Damage",
+				"hexa": "#3b3b3b",
+				"image": "Benjamin Damage - Obsidian.png"
+			},
+			{
+				"name": "Thank You Lucky Stars",
+				"artist": "Beach House",
+				"hexa": "#4b4d4d",
+				"image": "Beach House - Thank You Lucky Stars.jpg"
+			},
+			{
+				"name": "Half Free",
+				"artist": "U.S. Girls",
+				"hexa": "#545454",
+				"image": "U.S. Girls - Half Free.jpg"
+			},
+			{
+				"name": "At Long Last A$ap",
+				"artist": "A$ap Rocky",
+				"hexa": "#5b6064",
+				"image": "Asap Rocky - At long last asap.jpg"
+			},
+			{
+				"name": "Frozen Niagara Falls",
+				"artist": "Prurient ",
+				"hexa": "#414141",
+				"image": "Prurient - Frozen Niagara Falls.jpg"
+			},
+			{
+				"name": "Range Anxiety",
+				"artist": "Twerps",
+				"hexa": "#393939",
+				"image": "Twerps - Range Anxiety.jpg"
+			},
+			{
+				"name": "The Epic",
+				"artist": "Kamasi Washington",
+				"hexa": "#424242",
+				"image": "Kamasi Washington - The Epic.jpg"
+			},
+			{
+				"name": "Making Time",
+				"artist": "Jamie Woon",
+				"hexa": "#5d5d5e",
+				"image": "Jamie Woon - Making Time.jpg"
+			},
+			{
+				"name": "Poison Season",
+				"artist": "Destroyer",
+				"hexa": "#52514f",
+				"image": "Destroyer - Poison Season.jpg"
+			},
+			{
+				"name": "A New Place 2 Drown",
+				"artist": "Archy Marshall",
+				"hexa": "#565656",
+				"image": "Archy Marshall - A New Place 2 Drown.jpg"
+			},
+			{
+				"name": "To Pimp Like A Butterfly",
+				"artist": "Kendrick Lamar",
+				"hexa": "#676564",
+				"image": "Kendrick Lamar - To Pimp Like a Butterfly.jpg"
+			},
+			{
+				"name": "Girls In Peacetime Want To Dance",
+				"artist": "Belle And Sebastian",
+				"hexa": "#999999",
+				"image": "Belle And Sebastian - Girls in Peacetime Want to Dance.jpg"
+			},
+			{
+				"name": "Invite The Light",
+				"artist": "Dâm-Funk",
+				"hexa": "#e2e2e4",
+				"image": "Dam Funk - Invite The Light.jpg"
+			},
+			{
+				"name": "Explora EP",
+				"artist": "Florian Kupfer",
+				"hexa": "#b8b8b8",
+				"image": "Florian Kupfer - Explora EP.jpg"
+			},
+			{
+				"name": "What A Time To Be Alive",
+				"artist": "Drake/Future",
+				"hexa": "#e1e1e1",
+				"image": "Drake _ Future - What a Time to Be Alive.jpg"
+			},
+			{
+				"name": "Natalie Prass",
+				"artist": "Natalie Prass",
+				"hexa": "#d4d4d4",
+				"image": "Natalie Prass - Natalie Prass.jpg"
+			},
+			{
+				"name": "Eclipse",
+				"artist": "Twin Shadow",
+				"hexa": "#c4c4c4",
+				"image": "Twin Shadow - Eclipse.jpg"
+			},
+			{
+				"name": "Nothing",
+				"artist": "Kode9",
+				"hexa": "#d6d7d7",
+				"image": "Kode9 - Nothing.jpg"
+			},
+			{
+				"name": "Dark Energy",
+				"artist": "Jlin",
+				"hexa": "#d1d1d1",
+				"image": "Jlin - Dark Energy.jpg"
+			},
+			{
+				"name": "February 15 EP",
+				"artist": "Nao",
+				"hexa": "#cbc8c2",
+				"image": "Nao - February 15 EP.jpg"
+			},
+			{
+				"name": "La Vie Est Belle / Life Is Beautiful",
+				"artist": "Petite Noir",
+				"hexa": "#e1e0e1",
+				"image": "Petite Noir - La Vie Est Belle _ Life Is Beautiful.jpeg"
+			},
+			{
+				"name": "I Was Crossing A Bridge",
+				"artist": "Vito Ricci",
+				"hexa": "#e7e7e7",
+				"image": "Vito Ricci - I Was Crossing a Bridge.jpg"
+			},
+			{
+				"name": "Are You Alone?",
+				"artist": "Majical Cloudz",
+				"hexa": "#dcdcdc",
+				"image": "Majical Cloudz - Are You Alone_.jpg"
+			},
+			{
+				"name": "Me",
+				"artist": "Empress Of",
+				"hexa": "#eaeaea",
+				"image": "Empress Of - Me.png"
+			},
+			{
+				"name": "Projections",
+				"artist": "Romare ",
+				"hexa": "#f1f1f1",
+				"image": "Romare - Projections.jpg"
+			},
+			{
+				"name": "Solo",
+				"artist": "Nils Frahm",
+				"hexa": "#f0f0f0",
+				"image": "Nils Frahm - Solo.jpg"
+			},
+			{
+				"name": "How Big, How Blue, How Beautiful",
+				"artist": "Florence and the Machine",
+				"hexa": "#fbfaf3",
+				"image": "Florence and the Machine - How Big, How Blue, How Beautiful.jpg"
+			},
+			{
+				"name": "Have You In My Wilderness",
+				"artist": "Julia Holter",
+				"hexa": "#fffff5",
+				"image": "Julia Holter - Have You In My Wilderness.jpg"
+			},
+			{
+				"name": "Levon Vincent",
+				"artist": "Levon Vincent",
+				"hexa": "#fef7ff",
+				"image": "Levon Vincent - Levon Vincent.jpg"
+			},
+			{
+				"name": "Knockin' Boots",
+				"artist": "Julio Bashmore",
+				"hexa": "#fafafa",
+				"image": "Julio Bashmore - Knockin' Boots.jpg"
+			},
+			{
+				"name": "Sometimes I Sit And Think, And Sometimes I Just Sit",
+				"artist": "Courtney Barnett",
+				"hexa": "#ffffff",
+				"image": "Courtney Barnett - Sometimes I Sit and Think, and Sometimes I Just Sit.jpg"
+			},
+			{
+				"name": "If Youre Reading This Its Too Late",
+				"artist": "Drake",
+				"hexa": "#ffffff",
+				"image": "Drake - If Youre Reading This Its Too Late.jpg"
+			},
+			{
+				"name": "Elaenia",
+				"artist": "Floating Points",
+				"hexa": "#ffffff",
+				"image": "Floating Points - Elaenia.jpg"
+			},
+			{
+				"name": "Surf",
+				"artist": "Donnie Trumpet & The Social Experiment",
+				"hexa": "#ffffff",
+				"image": "Donnie Trumpet & The Social Experiment - Surf.jpg"
+			},
+			{
+				"name": "In Colour",
+				"artist": "Jamie xx",
+				"hexa": "#∞",
+				"image": "Jamie-xx-In-Colour.gif"
+			},
+			{
+				"name": "A Head Full Of Dreams",
+				"artist": "Coldplay",
+				"hexa": "#∞",
+				"image": "Coldplay - A Head Full of Dreams.jpg"
+			}
+
+		]
+		
+	}
+}
+
+
+ 

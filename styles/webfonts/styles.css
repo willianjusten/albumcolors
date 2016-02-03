@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'AvenirLTStd-Roman';
+  src: url('AvenirLTStd-Roman.eot?#iefix') format('embedded-opentype'),  url('AvenirLTStd-Roman.otf')  format('opentype'),
+	     url('AvenirLTStd-Roman.woff') format('woff'), url('AvenirLTStd-Roman.ttf')  format('truetype'), url('AvenirLTStd-Roman.svg#AvenirLTStd-Roman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

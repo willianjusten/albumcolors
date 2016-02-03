@@ -1,0 +1,21 @@
+mixin createalbumsList(albums)
+	each album, index in albums
+			- var last = index == albums.length -1 ? "end" : ""    
+			div(class="large-2 medium-6 small-12 columns collapse #{last}" )
+				div(class="card-container")
+					div(class="card")
+						div(class="front")
+							div(class="cover")
+								if album.tag
+									img(class="tag", src="images/#{album.tag}")
+									img(src="images/albums/#{album.image}")
+								else
+									img(src="images/albums/#{album.image}")
+
+						div(class="back")
+							div(class="content-card")
+								div(class="main")
+									h2=album.name
+									h3=album.artist
+									h4=album.hexa
+									
